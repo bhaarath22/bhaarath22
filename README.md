@@ -76,7 +76,7 @@
   <a href="https://x.com/Bharathkukka" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
   </a>
-  <a href="https://bhaarath22.github.io" target="_blank">
+  <a href="https://bharathkukka.github.io" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=domain&logoColor=white" alt="Portfolio">
   </a>
 </p>
