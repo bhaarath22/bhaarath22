@@ -67,6 +67,35 @@
 
 
 ---
+### 🚀 Projects  
+
+### 🏠 Real-Time Weapon Detection System&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;***[View Repository](https://github.com/bharathkukka/Home-Security-System)*** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ****Jan 2025 - Present****   
+
+- **Tech Stack**:  
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+  ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+  ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+  ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+  ![Telegram](https://img.shields.io/badge/Telegram_Bot_API-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)
+  ![MTCNN](https://img.shields.io/badge/MTCNN-000000?style=for-the-badge)
+  ![InceptionResnetV1](https://img.shields.io/badge/InceptionResnetV1-FF6F00?style=for-the-badge)
+  ![Google Gemini](https://img.shields.io/badge/Google_Gemini_API-4285F4?style=for-the-badge&logo=google)
+  ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+  ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+  ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+  ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+- **Skills Gained**:  
+  ![Computer Vision](https://img.shields.io/badge/Computer_Vision-5C3EE8?style=for-the-badge)
+  ![Deep Learning](https://img.shields.io/badge/Deep_Learning-B22C19?style=for-the-badge)
+  ![Web Development](https://img.shields.io/badge/Web_Development-1572B6?style=for-the-badge)
+  ![Database Management](https://img.shields.io/badge/Database_Management-3ECF8E?style=for-the-badge)
+  ![API Integration](https://img.shields.io/badge/API_Integration-20232A?style=for-the-badge)
+  ![Real-time Deployment](https://img.shields.io/badge/Real--time_Deployment-4CC61E?style=for-the-badge)
+
+
+  ---
 
 ### 🤝 Let's Connect
 <p align="center">
